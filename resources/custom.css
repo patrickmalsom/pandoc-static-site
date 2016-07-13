@@ -1,0 +1,7 @@
+/* Bootstrap Customizations */
+.toc { margin-top: 20px; }
+.toc ul { margin-bottom: 0; }
+.toc ul { list-style: none; }
+.toc ul > li > a:hover,
+pre code { overflow-wrap: normal; white-space: pre; }
+body { padding:10px; }
